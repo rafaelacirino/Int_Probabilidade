@@ -1,2 +1,5 @@
-# Int_Probabilidade
-Curso da USP
+# Curso de Introdução a Probabilidade - USP
+
+
+Professor Francisco Rodrigues
+
